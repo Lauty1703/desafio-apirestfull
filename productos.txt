@@ -1,0 +1,19 @@
+[
+  { "title":"helado de chocolate",
+    "price":3400,
+    "thumbnail":"portada.png",
+    "id":1   
+   },
+   {
+    "title":"helado de durazno",
+    "price":3400,
+    "thumbnail":"portada.png",
+    "id":2
+    },
+   {
+    "title":"helado de dulce de leche", 
+    "price":3400,
+    "thumbnail":"portada.png",
+    "id":3
+    }
+]
